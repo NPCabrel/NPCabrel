@@ -1,6 +1,6 @@
 # Hi there, I'm Pascal Cabrel Nague 👋
 
-### Machine Learning Enthusiast & Java Developer
+### Machine Learning and Sofware engeneering Enthusiast 
 
 I'm a passionate developer focused on building intelligent systems and clean, efficient code.
 
