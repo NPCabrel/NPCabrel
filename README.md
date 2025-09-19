@@ -15,3 +15,10 @@ I'm a passionate developer focused on building intelligent systems, deploying sc
 
 - **[Book Recommendation System](https://github.com/NPCabrel/book-recommender)** - A Java-based engine suggesting books based on co-occurrence patterns.
 - **[Python skills](https://github.com/NPCabrel/miniProjects)** - These are some projects, i coded to involved my knowledge in Python.
+
+# About my study progression
+
+The following six (06) groups represent the most salient qualifications of Bachelor certificate.
+### Software development 
+#### programming concepts 
+
