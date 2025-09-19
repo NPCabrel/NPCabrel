@@ -19,6 +19,61 @@ I'm a passionate developer focused on building intelligent systems, deploying sc
 # About my study progression
 
 The following six (06) groups represent the most salient qualifications of Bachelor certificate.
-### Software development 
-#### programming concepts 
+###  1. Software development 
+#### Concepts of Programming
+#### Modelling of Software Systems
+#### Distributed and Concurrent Programming
+#### Algorithms and Data Structures
+#### Project managment
+#### SW-Development Project
+#### Programming Lab
+
+###  2. Computer science systems
+#### Digital Systems and Computer Architecture
+#### Computer Organization and System Software
+#### Information Systems
+#### Communication Systems
+#### Scientific Computing
+#### Artificial Intelligence
+
+###  3. Theoretical Basics
+#### Mathematics for Computer Science Students: Algebraic Structures
+#### Mathematics for Computer Science Students: Combinatorics, Stochastics, and Statistics
+#### Mathematics for Computer Science Students: Analysis
+#### Formal Languages and Computability
+#### Logic and Semantics of Programming Languages
+
+###  4. Interdisciplinary qualifications
+#### Computer science and society
+#### seminar scientific computing
+#### seminar advanced topics in ML
+#### Neural Networks for NLP
+
+### 5. Computer science spacialisation
+#### Machine Learning 1 - Foundations
+#### Machine Learning 2 - statistical ML
+
+###  6. Bachelor's thesis
+#### project Machine Learning and Deep Learning (ML for NLP and others)
+#### Thesis
+
+### supplements units
+#### 3D Computer Vision
+#### Engineering with generative AI
+#### English course B2-level
+#### English course C1-level
+
+
+## Already done
+#### Concpets of programming
+#### Modelling of software systems
+#### Programming Lab
+#### Communication systems
+#### Mathematics for Computer Science Students: Algebraic Structures
+#### Mathematics for Computer Science Students: Combinatorics, Stochastics, and Statistics
+#### Mathematics for Computer Science Students: Analysis
+#### Computer Science and Society
+#### English course B2-level
+#### English course C1-level
+
 
