@@ -18,6 +18,7 @@ I'm a passionate developer focused on building intelligent systems, deploying sc
 - **[NotesCalculator](https://github.com/NPCabrel/NotesCalculatorFlask.git)** - This is a small project to improve my skills in Python Tools like Pandas and usability of a csv file
 - **[lowerFunction in Python](https://github.com/NPCabrel/Python.git)** - I coded a lower function without using the lowe() intergrated function in Python
 - **[Programming Lab of the 2nd Semester in Java](https://github.com/NPCabrel/Projekt_Semester2-1.git)** - All Projects we wrote during the second semester
+- **[Sorting algorithms, generate and visualize data](https://github.com/NPCabrel/sorting-algorithms-analysis.git)** -sorting algorithms, generate_data and visualize them
 
 # About my study progression
 
