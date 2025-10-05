@@ -16,7 +16,7 @@ I'm a passionate developer focused on building intelligent systems, deploying sc
 - **[Book Recommendation System](https://github.com/NPCabrel/book-recommender)** - A Java-based engine suggesting books based on co-occurrence patterns.
 - **[Python skills](https://github.com/NPCabrel/miniProjects)** - These are some projects, i coded to involved my knowledge in Python.
 - **[NotesCalculator](https://github.com/NPCabrel/NotesCalculatorFlask.git)** - This is a small project to improve my skills in Python Tools like Pandas and usability of a csv file
-- **[lowerFunction in Python](https://github.com/NPCabrel/PythonExoJustCode.git)** - I coded a lower function without using the lowe() intergrated function in Python
+- **[lowerFunction in Python](https://github.com/NPCabrel/Python.git)** - I coded a lower function without using the lowe() intergrated function in Python
 - **[Programming Lab of the 2nd Semester in Java](https://github.com/NPCabrel/Projekt_Semester2-1.git)** - All Projects we wrote during the second semester
 
 # About my study progression
